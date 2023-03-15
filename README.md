@@ -1,7 +1,7 @@
 # Mayurbi<h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** no <a href="https://www.fiap.com.br/online/graduacao/">FIAP</a>.
+- 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na <a href="https://www.fiap.com.br/online/graduacao/">FIAP</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **PHP, React Native,Wordpress,HTML e CSS,C# e C++**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
