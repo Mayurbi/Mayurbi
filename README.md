@@ -45,6 +45,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Paola Mendes Bernardes](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paola-bernardes-450552192/)](https://www.linkedin.com/in/paola-bernardes-450552192/)
+[![Linkedin: Paola Mendes Bernardes](https://img.shields.io/badge/-Paola Mendes Bernardes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paola-bernardes-450552192/)](https://www.linkedin.com/in/paola-bernardes-450552192/)
 [![Gmail Badge](https://img.shields.io/badge/-bernardespaola12@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:bernardespaola12@gmail.com)
 [![GitHub @Mayurbi]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Mayurbi)
