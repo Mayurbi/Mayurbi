@@ -22,6 +22,7 @@
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-323330?style=for-the-badge&logo=insomnia&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-323330?style=for-the-badge&logo=postman&logoColor=007ACC)
+  ![WordPress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)
 
 **DevOps**
 
