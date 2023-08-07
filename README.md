@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na <a href="https://www.fiap.com.br/online/graduacao/">FIAP</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **PHP, React Native,Wordpress,HTML, Java e CSS**.
+- 🌱 &nbsp; Aprendendo mais sobre **PHP, CSharp,Kotlin,Android, Java e Banco de Dados**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
